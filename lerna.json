@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "packages/pudge-webpack-plugin"
+  ],
+  "version": "independent",
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        
+      ]
+    }
+  }
+}
